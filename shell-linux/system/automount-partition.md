@@ -35,7 +35,7 @@ sudo blkid
 
 Look for a line like:
 ```
-/dev/nvme0n1p3: UUID="66A4025DA402305B" TYPE="ntfs"
+/dev/nvme0n1p3: UUID="AABBCCDD11223344" TYPE="ntfs"
 ```
 
 Or use `lsblk -f` for a tree view:

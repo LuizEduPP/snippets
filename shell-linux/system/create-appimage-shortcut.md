@@ -50,7 +50,7 @@ cat > ~/.local/share/applications/cursor.desktop << 'EOF'
 [Desktop Entry]
 Name=Cursor IDE
 Comment=AI-Powered Code Editor
-Exec=/home/luiz/Cursor-0.49.6-x86_64.AppImage
+Exec=/home/YOUR_USER/Cursor-0.49.6-x86_64.AppImage
 Icon=cursor
 Terminal=false
 Type=Application
